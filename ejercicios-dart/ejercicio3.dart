@@ -1,5 +1,8 @@
-
-  int num1 = 2;
-  double num2 = 2.5;
-  double suma = num1 + num2;
-  print('Bienvenido al SENA');
+void main() {
+  //tipos de datos enteros "double"
+ 
+  double n1 = 3.4;
+  double n2 = 5.5;
+  double resta = n1 - n2;
+  print('La resta de dos numeros es: $resta');
+}
